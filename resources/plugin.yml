@@ -1,0 +1,7 @@
+name: Ccaufgabemain
+version: '${project.version}'
+main: de.invsucht.ccaufgabemain.Ccaufgabemain
+api-version: 1.19
+authors: [ Luispupuis ]
+commands:
+  cc:
