@@ -1,6 +1,6 @@
 Bewerbung für invsucht.de
 /cc
-/cc <name>
+/cc Spielername
 der chat wird gecleart
 bewerbung  
   
